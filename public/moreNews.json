@@ -1,0 +1,35 @@
+
+
+[
+    {
+      "id": 1,
+      "img": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2024/09/09/op_1_-_bangladeshi_migrant_workers_in_gulf_countries_-_afp.jpg",
+      "title": "Can we break the cycle of migrant exploitation?",
+      "genre": "World News"
+    },
+    {
+      "id": 2,
+      "img": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/06/19/pm.jpg",
+      "title": "Dictator Hasina made accused in another ICT case",
+      "genre": "Politics"
+    },
+    {
+      "id": 3,
+      "img": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/09/10/m_touhid_hossain1.jpg",
+      "title": "Border killings: Bangladesh has made protest language stronger, says foreign adviser",
+      "genre": "International"
+    },
+    {
+      "id": 4,
+      "img": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/09/09/dsex.jpg",
+      "title": "Stocks fall for sixth day",
+      "genre": "Economics"
+    },
+    {
+      "id": 5,
+      "img": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/09/10/tech_startup_-_new.jpg",
+      "title": "Apple wants you to love Apple Intelligence; what even is it?",
+      "genre": "Technology"
+    }
+  ]
+  
