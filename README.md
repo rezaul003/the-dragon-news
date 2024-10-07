@@ -19,7 +19,3 @@ A responsive news website built with React.js, Tailwind CSS, and Firebase. The s
 - **Tailwind CSS**: For responsive and modern UI design.
 - **Firebase**: For user authentication and database management.
 - **News API**: For fetching dynamic news data.
-
-
-Live Link: https://the-dragon-news-96dca.web.app/
->>>>>>> 8c4cb35 (Add existing project files.)
