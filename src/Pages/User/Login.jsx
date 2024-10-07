@@ -21,7 +21,7 @@ const Login = () => {
             .then(result => {
                 console.log(result.user)
 
-                navigate(location?.state? location.state : '/')
+                navigate(location?.state ? location.state : '/')
             })
             .catch(Error => {
                 console.log(Error)
@@ -59,6 +59,16 @@ const Login = () => {
                     </div>
                 </form>
                 <h3 className="text-center">Don't Have Account? <Link to='/register' className="text-red-500 pl-2">Register</Link> </h3>
+
+
+
+            </div>
+
+
+            <div className=" bg-slate-50 lg:w-1/3 md:w-2/4 mx-auto p-8 rounded-lg my-20 text-white space-y-6 bg-slate-600" >
+                <h3 className="text-center">Demo user</h3>
+                <p className="">Email: dragon@mail.com</p>
+                <p className="">Password: 01234567</p>
             </div>
 
 
